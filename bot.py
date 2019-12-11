@@ -7,7 +7,7 @@ import os
 from discord.utils import get
 
 players = {}
-TOKEN = 'NjUzMjk4NjMxMTY3ODM2MTkw.Xe0-VA.f03hSp55IBfDGlY-Tn1VJsAOByU'
+TOKEN = 'YOUR TOKEN HERE'
 client = commands.Bot(command_prefix='.')
 voice = ''
 
